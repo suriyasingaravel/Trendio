@@ -1,5 +1,5 @@
 
-# Trendio - Your One-Stop Solution for Fashion
+# Trendio - Description
 
 Trendio is a web application that offers a wide range of men and women's clothing and accessories. This README provides an overview of the project, installation instructions, and details on how to use the application.
 
